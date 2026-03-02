@@ -1,6 +1,6 @@
 # SIGAP-IoT-CaAs-CPSLab
 
-# 🔥 SIGAP - Smart Integrated Gas & Temperature Alert Platform
+# 🔥 SIGAP - Smart Integrated Gas & Heat Protection
 
 ## 📌 Ringkasan Proyek
 
