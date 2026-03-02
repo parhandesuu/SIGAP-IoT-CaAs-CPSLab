@@ -74,7 +74,6 @@ Platform yang digunakan: Blynk IoT
 Fitur:
 - Monitoring suhu real-time
 - Monitoring kadar gas
-- Dashboard smartphone
 - Indikator kondisi sistem
 
 ---
