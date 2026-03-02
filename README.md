@@ -132,15 +132,6 @@ Gunakan PlatformIO atau Arduino IDE untuk upload program ke board ESP32.
 
 ---
 
-## 📷 Dokumentasi
-
-Tambahkan:
-- Foto prototipe
-- Screenshot dashboard Blynk
-- Wiring diagram
-
----
-
 ## 👨‍💻 Pengembang
 
 Project CaAS Kelompok 2 - SIGAP  
